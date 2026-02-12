@@ -1,1 +1,1 @@
-жопаа
+жопаа - this is inline telegram bot who says "ЖОПААА"
